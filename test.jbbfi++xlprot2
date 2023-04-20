@@ -1,0 +1,8 @@
+//Stack Push
+s_push_1
+v_load
+s_push_v1 // pushes the value of the VAR1 to the stack
+
+
+s_create
+load DEBUG.PRINT
